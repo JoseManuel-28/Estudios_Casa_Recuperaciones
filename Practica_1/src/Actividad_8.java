@@ -20,7 +20,9 @@ public class Actividad_8 {
             System.out.println("A primera hora tienes Digitalizacion");
         }else if (diaIndicado.equalsIgnoreCase("Jueves")){
             System.out.println("A primera hora tienes Digitalizacion");
-        }else if (diaIndicado.equalsIgnoreCase("Viernes "));
+        }else if (diaIndicado.equalsIgnoreCase("Viernes ")){
+            System.out.println("A primera hora tienes Digitalizacion");
+        }
 
 
     }
