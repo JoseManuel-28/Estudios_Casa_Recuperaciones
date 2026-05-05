@@ -3,6 +3,9 @@
 
 Este repositorio contiene la solución a los ejercicios prácticos de la asignatura de Programación, desarrollados como parte del proceso de recuperación.
 
+<img width="516" height="325" alt="image" src="https://github.com/user-attachments/assets/a7854d3e-46cd-40a0-b51b-b6541e38aa29" />
+
+
 ---
 
 ## 🚀 Contenido del Repositorio
