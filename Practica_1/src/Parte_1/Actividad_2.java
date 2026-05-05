@@ -1,4 +1,4 @@
-import org.w3c.dom.ls.LSOutput;
+package Parte_1;
 
 public class Actividad_2 {
 

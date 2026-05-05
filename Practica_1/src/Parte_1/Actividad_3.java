@@ -1,3 +1,5 @@
+package Parte_1;
+
 public class Actividad_3 {
 
     int euro = 89;

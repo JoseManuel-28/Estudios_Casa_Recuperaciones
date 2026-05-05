@@ -1,3 +1,5 @@
+package Parte_1;
+
 public class Actividad_7 {
 
     double lado = 5.5;

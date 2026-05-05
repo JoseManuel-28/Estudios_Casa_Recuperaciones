@@ -1,3 +1,5 @@
+package Parte_1;
+
 import java.util.Scanner;
 
 public class Actividad_8 {
@@ -24,6 +26,6 @@ public class Actividad_8 {
             System.out.println("A primera hora tienes Digitalizacion");
         }
 
-
+        System.out.println("\n");
     }
 }

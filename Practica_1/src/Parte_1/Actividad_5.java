@@ -1,3 +1,5 @@
+package Parte_1;
+
 public class Actividad_5 {
     int pesetas = 1000;
     double convertidor = 166.386;

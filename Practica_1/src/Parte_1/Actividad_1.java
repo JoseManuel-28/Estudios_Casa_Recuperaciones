@@ -1,3 +1,5 @@
+package Parte_1;
+
 public class Actividad_1 {
 
     int x = 144;

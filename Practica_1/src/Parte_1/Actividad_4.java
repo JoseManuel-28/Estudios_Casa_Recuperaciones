@@ -1,3 +1,5 @@
+package Parte_1;
+
 import java.util.Scanner;
 
 public class Actividad_4 {
