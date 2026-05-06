@@ -17,9 +17,10 @@ public class Main {
         Parte_2.Actividad_2_1 actividad2_1 = new Parte_2.Actividad_2_1();
         Parte_2.Actividad_2_2 actividad2_2 = new Parte_2.Actividad_2_2();
         Parte_2.Actividad_2_3 Actividad2_3 = new Actividad_2_3();
-        Parte_2.Actividad_2_4 Actividad2_4 = new Actividad_2_4();
-        Parte_2.Actividad_6 actividad6 = new Parte_2.Actividad_6();*/
+        Parte_2.Actividad_2_4 Actividad2_4 = new Actividad_2_4();  //Aqui dentro está el ejercicio 4 y 5
+        Parte_2.Actividad_6 actividad6 = new Parte_2.Actividad_6();
         Parte_2.Actividad_7 actividad7 = new Parte_2.Actividad_7();
+        Parte_2.Actividad_8 act8 = new Parte_2.Actividad_8();*/
 
     }
 }
